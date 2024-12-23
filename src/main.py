@@ -3,6 +3,8 @@ import platform
 import requests
 import os
 
+os.system('pip install requests')
+
 
 def clear():
 
